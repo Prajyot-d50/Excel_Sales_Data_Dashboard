@@ -8,7 +8,7 @@ An interactive Excel dashboard to analyze sales performance across products, yea
 
 
 
-## Key Metrics
+📊  Key Metrics
 
 - *Total Sales:* 2,297,201.0
 - *Total Quantity:* 37,873
@@ -25,11 +25,31 @@ An interactive Excel dashboard to analyze sales performance across products, yea
 - Pivot Tables and Pivot Charts for dynamic analysis
 - Dashboard Navigation via sheet tabs
 
+🛠️ Tools & Technologies Used
 
-## Getting Started
+Microsoft Excel
 
-1. Clone or download the repo.
-2. Open sales-dashboard.xlsx in Excel (preferably Excel 2016 or later).
-3. Click *"Enable Content"* if prompted (for full functionality).
-4. Use slicers and filters to explore insights.
+Pivot Tables
 
+Pivot Charts
+
+Slicers for filtering by year and category
+
+Conditional Formatting
+
+Data Visualization tools (Bar, Line, Pie charts)
+
+
+📌 Use Cases
+
+This dashboard can be used for:
+
+Sales Performance Analysis – Track and compare sales trends month-wise and year-wise.
+
+Customer Segmentation – Identify top customers based on profit.
+
+Product Strategy – Understand which product categories perform best.
+
+Profit Analysis – Monitor monthly and categorical profit contributions.
+
+Executive Reporting – Share key business metrics with stakeholders.
