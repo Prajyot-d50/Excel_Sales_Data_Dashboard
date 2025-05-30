@@ -27,29 +27,29 @@ An interactive Excel dashboard to analyze sales performance across products, yea
 
 🛠️ Tools & Technologies Used
 
-Microsoft Excel
+- Microsoft Excel
 
-Pivot Tables
+- Pivot Tables
 
-Pivot Charts
+- Pivot Charts
 
-Slicers for filtering by year and category
+- Slicers for filtering by year and category
 
-Conditional Formatting
+- Conditional Formatting
 
-Data Visualization tools (Bar, Line, Pie charts)
+- Data Visualization tools (Bar, Line, Pie charts)
 
 
 📌 Use Cases
 
-This dashboard can be used for:
+- This dashboard can be used for:
 
-Sales Performance Analysis – Track and compare sales trends month-wise and year-wise.
+- Sales Performance Analysis – Track and compare sales trends month-wise and year-wise.
 
-Customer Segmentation – Identify top customers based on profit.
+- Customer Segmentation – Identify top customers based on profit.
 
-Product Strategy – Understand which product categories perform best.
+- Product Strategy – Understand which product categories perform best.
 
-Profit Analysis – Monitor monthly and categorical profit contributions.
+- Profit Analysis – Monitor monthly and categorical profit contributions.
 
-Executive Reporting – Share key business metrics with stakeholders.
+- Executive Reporting – Share key business metrics with stakeholders.
