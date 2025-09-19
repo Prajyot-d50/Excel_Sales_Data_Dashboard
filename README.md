@@ -53,3 +53,6 @@ An interactive Excel dashboard to analyze sales performance across products, yea
 - Profit Analysis – Monitor monthly and categorical profit contributions.
 
 - Executive Reporting – Share key business metrics with stakeholders.
+
+<img width="3264" height="3264" alt="20250916_161106" src="https://github.com/user-attachments/assets/1de792e7-a0d9-490f-bb2a-8f1258cc20ab" />
+
